@@ -21,8 +21,20 @@ An interactive Power BI project analyzing India's exports and imports with 10 ma
 - Product category analysis
 - Interactive filters and slicers
 
+
 ## Dashboard Preview
-Screenshot will be added soon.
+
+### Dashboard 1
+![Dashboard 1](Dashboard-1.png)
+
+### Dashboard 2
+![Dashboard 2](Dashboard-2.png)
+
+### Dashboard 3
+![Dashboard 3](Dashboard-3.png)
+
+### Dashboard 4
+![Dashboard 4](Dashboard-4.png)
 
 ## Key Insights
 To be added after completing the analysis.
